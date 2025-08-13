@@ -1,8 +1,8 @@
 ---
 version: 2.13.0
 slug: openthread_border_router
-name: OpenThread Border Router
-description: OpenThread Border Router add-on
+name: OpenThread Border Router (network fork)
+description: OpenThread Border Router add-on (network fork)
 url: >-
   https://github.com/Tarik2142/addons/blob/master/openthread_border_router
 arch:
